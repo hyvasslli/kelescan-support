@@ -11,12 +11,14 @@
 ## 使用帮助
 
 - **扫描与导入**：拍摄纸质文件，或从相册、文件中导入资料；确认裁剪后整理为多页 PDF。
-- **阅读增强**：原图、彩图、黑白三种模式；彩图支持连续细节调节。较复杂的增强可能需要等待，请保留原始资料并核对处理结果。
+- **阅读增强**：原图、彩图、智能、黑白四种滤镜；智能滤镜可免费预览，分享、保存和打印需高级版。较复杂的增强可能需要等待，请保留原始资料并核对处理结果。
 - **整理页面**：在 PDF 中添加、旋转、排序和删除页面，通过系统工具导出或分享。
 - **标记与签名**：在 PDF 页面使用画笔、荧光笔，或插入、移动签名并双指等比例缩放；完成后保存。
-- **文字与表格**：支持系统文字识别、搜索与复制。图片转表格要求 iOS 26 或更新版本，可核对、编辑单元格后导出 CSV；不保留原表样式和合并格式。
+- **文字与表格**：支持系统文字识别、搜索与复制。图片转表格要求 iOS 26 或更新版本，可核对、编辑单元格后导出 Excel 或 CSV；不保留原表样式和合并格式。文字识别和图片转表格属于高级版功能。
 
-识别、展平和增强效果取决于纸张、光照、语言及版式。使用前请核对重要内容。去手写可能漏检、残留或影响原内容，不适用于无须核对的正式资料替换。
+识别、展平和增强效果取决于纸张、光照、语言及版式。使用前请核对重要内容。首次使用页面展平需联网完成初始化。
+
+- **高级版**：一次性购买，无订阅。可在设置或购买页点按“恢复购买”。
 
 ### 常见问题
 
@@ -34,9 +36,9 @@
 
 ## Help in English
 
-Scan or import paper documents, adjust crops, and organize multiple pages into PDFs. Choose Original, Color or Black & White; adjust detail for color enhancement. Mark up PDF pages with pens and highlighters, insert signatures, and resize them proportionally with two fingers.
+Scan or import paper documents, adjust crops, and organize multiple pages into PDFs. Choose Original, Color, Smart or Black & White. Smart can be previewed for free; sharing, saving and printing Smart documents needs KeLeScan Pro. Mark up PDF pages with pens and highlighters, insert signatures, and resize them proportionally with two fingers.
 
-Text recognition supports search and copy. Table extraction requires **iOS 26 or later**. Review and edit recognized cells before exporting CSV. CSV retains cell text and row/column positions, not table styling or merged-cell formatting. Recognition and enhancement depend on image quality, language and layout; review important content before use. Handwriting removal may leave marks or affect content and requires careful review.
+Text recognition supports search and copy. Table extraction requires **iOS 26 or later**. Review and edit recognized cells before exporting Excel or CSV. Text recognition and table extraction are Pro features. CSV retains cell text and row/column positions, not table styling or merged-cell formatting. Recognition and enhancement depend on image quality, language and layout; review important content before use. Page flattening needs an internet connection the first time it is used. KeLeScan Pro is a one-time purchase with no subscription; use Restore Purchases in Settings or on the purchase screen.
 
 If the camera or photo export fails, check the relevant permission in Settings and available storage. For iCloud availability, check your Apple ID, iCloud Drive, network and storage. Do not uninstall the app or delete originals as a troubleshooting step.
 
